@@ -1,4 +1,4 @@
-//https://github.com/MalinkaMell/Good-README-Generator
+
 
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");

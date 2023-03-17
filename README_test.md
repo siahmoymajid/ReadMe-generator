@@ -15,7 +15,7 @@
  ```
 
  ## Usage
- tes
+ test
 
  ## Contributing
  test
