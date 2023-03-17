@@ -39,7 +39,7 @@ const questions = [
     type: "input",
     name: "Contributing",
     message:
-      "Please provide instructions on how you contribute to thsi github repo.",
+      "Please provide instructions on how you contribute to this github repo.",
   },
   {
     type: "input",
